@@ -1,4 +1,4 @@
-import { redirect } from 'next/dist/server/api-utils';
+
 import { styled } from '..';
 
 export const HomeContainer = styled('main', {
